@@ -23,3 +23,7 @@ To buy Interrail Passes, visit the [Interrail Eurail](https://www.interrail.eu/e
 >It was more than a holiday
 >
 >~Rebecca Scrase
+
+{{ % shortcode-myshortcode %}} dhhddh {{ % /shortcode-myshortcode %}}
+
+
