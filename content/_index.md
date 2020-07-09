@@ -11,8 +11,9 @@ To buy Interrail Passes, visit the [Interrail Eurail](https://www.interrail.eu/e
 
 ![Destinations](discover.jpg)
 
-## Testimonials
->A unique opportunity
+# Testimonials
+
+>**A unique opportunity**
 >
 >~Elise Magne
 
@@ -23,7 +24,5 @@ To buy Interrail Passes, visit the [Interrail Eurail](https://www.interrail.eu/e
 >It was more than a holiday
 >
 >~Rebecca Scrase
-
-
 
 
