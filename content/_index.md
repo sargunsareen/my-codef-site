@@ -24,6 +24,6 @@ To buy Interrail Passes, visit the [Interrail Eurail](https://www.interrail.eu/e
 >
 >~Rebecca Scrase
 
-{{ % shortcode-myshortcode %}} dhhddh {{ % /shortcode-myshortcode %}}
+
 
 

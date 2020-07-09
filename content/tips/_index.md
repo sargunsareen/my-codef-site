@@ -14,8 +14,6 @@ My top tips are:
 1. Have a rough itinerary but don’t be too rigid with it!
 1. Take comfortable footwear- you are easily walking 30-40 thousand steps a day!
 
-{{< myshortcode >}} with this as well 
-
-Make the most of your travels- the destinations are absolutely stunning! Below is a beautiful snapshot of Prague. 
+{{< myshortcode >}}   
 
 {{< instagram CCRK5NXh_Xx >}}
