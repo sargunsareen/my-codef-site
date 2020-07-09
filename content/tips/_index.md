@@ -13,16 +13,18 @@ In 2018, I had the opportunity to go Interrailing with 3 other friends! What an 
 
 **2.** Book accommodation in advance.
 
-**4.** Learn some basic words of the native language!
+**3.** Learn some basic words of the native language!
 
-**5.** Budget carefully for food, accommodation, sight seeing etc. 
+**4.** Budget carefully for food, accommodation, sight seeing etc. 
 
-**6.** Check the currencies you will need and exchange beforehand.
+**5.** Check the currencies you will need and exchange beforehand.
 
-**7.** Have a rough itinerary but don’t be too rigid with it!
+**6.** Have a rough itinerary but don’t be too rigid with it!
 
-**8.** Take comfortable footwear- you are easily walking 30-40 thousand steps a day!
+**7.** Take comfortable footwear- you are easily walking 30-40 thousand steps a day!
+
+**8.** Enjoy, relax and make the most of it!
 
 {{< myshortcode >}} 
 
-{{< instagram CCRK5NXh_Xx >}}
+![Wall Collage](wall.jpg)
