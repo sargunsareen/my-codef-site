@@ -13,7 +13,7 @@ We travelled to Paris, Munich, Vienna, Salzburg, Budapest and Prague. For us, im
 
 To find out more about the possible routes you can take and to assess their feasibility, visit [this](https://www.interrail.eu/en/plan-your-trip) website for all the information you may need, from train timetables to the latest travel updates due to Covid.
 
-Also, be sure to follow instagram pages for photo inspirations - here's a beautiful snapshot of Prague!
+Also, be sure to follow instagram pages for inspiration - here's a beautiful snapshot of Prague!
 
 {{< instagram CCRK5NXh_Xx >}}
 
