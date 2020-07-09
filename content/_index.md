@@ -5,7 +5,7 @@ draft: false
 ---
 ## About  
 
-Travelling is something we are looking forward to, once it is safe to do so. Prepare your interrailing experience in advance so you are all set to go!
+Travelling is something we are all looking forward to, once it is safe to do so. Prepare your interrailing experience in advance so you are all set to go!
 
 To buy Interrail Passes, visit the [Interrail Eurail](https://www.interrail.eu/en/interrail-passes) website. If you are 18 years old and a citizen of the EU, visit the [Discover EU](https://www.interrail.eu/en/interrail-passes/what-is-discovereu) website for a chance to win a **Free** Interrail Pass!😊
 

@@ -5,7 +5,7 @@ draft: false
 ---
 ## Be Prepared
 
-In 2018, I had the opportunity to go Interrailing with 3 other friends! What an experience! I learnt alot from it and Had an amazing time  went Interrailing in 2018 and learnt alot from it!
+In 2018, I had the opportunity to go Interrailing with 3 other friends! What an amazing experience- I learnt alot from it! 
 
 **My Top Tips are:**
 
